@@ -1,11 +1,11 @@
 # Crossword Poem™
 
 ## Overview
-HDMI has created a crossword poem™ that provides a fun and engaging way for visitors to create their own poems from crossword clues. The concept, poems, and clues were all created by Dr. Emily Carr.
+HDMI has created crossword poem™ software that provides a fun and engaging way for visitors to create their own poems from crossword clues. The concept, poems, and clues were all created by Dr. Emily Carr.
 
-The crossword poem™ allows the visitor to select from three crosswords and to print the resulting poem. Poems can be effortlessly added by a future team.
+The crossword poem™ software allows the visitor to select from three crosswords and to print the resulting poem. Poems can be effortlessly added by a future team.
 
-The crossword poem™ is deployed as a web application that can be run on almost any browser.
+The crossword poem™ software is deployed as a web application that can be run on almost any browser.
 
 ## Instructions for Use
 Please watch the how-to-use video [here](https://youtu.be/v4nLQnCpTjM).
